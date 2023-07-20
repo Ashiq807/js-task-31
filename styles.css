@@ -1,0 +1,13 @@
+*{
+    text-transform: capitalize;
+}
+#container{
+    background-color: rgb(231, 134, 23);
+    border: 1px solid black;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px;
+}
